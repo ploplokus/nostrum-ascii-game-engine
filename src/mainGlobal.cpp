@@ -1,4 +1,4 @@
-/*	Nostrum Asci game engine
+/*	Nostrum Ascii game engine
 *
 *	Copyright (C) 2018-2021  Paweł Musiał
 *
