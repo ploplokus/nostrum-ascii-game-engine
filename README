@@ -4,6 +4,16 @@ Nasci ncurse Alpha 2021.1.0
 Różne rodzaje RPG
 Zaimplementowane są tylko podstawy przemieszczania się i interakcji z NPC
 
+Domyślne sterowanie:
+ - wasd - przemieszczanie się
+ - z - wybór interakcji
+ - e - ekwipunek
+ - r - odświeżenie ekranu
+ - q - wyczyszczenie wiadomości
+ - p - wyjście
+ - :q - wyjście
+
+
 Komentarze oraz treść są po polsku
 
 ******************
@@ -11,5 +21,14 @@ Nasci ncurse Alpha 2021.1.0
 
 Various kinds of RPG subgenres
 Only basic character moving and interactions with NPCs are implemented
+
+Default contrtols:
+ - wasd - moving
+ - z - choosing interactions
+ - e - inventory
+ - r - screen refresh
+ - q - messages
+ - p - exit
+ - :q - exit
 
 Comments and content are in Polish
