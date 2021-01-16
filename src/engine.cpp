@@ -739,7 +739,7 @@ class Place	//	miejsce świata gry wyświetlane pojedyńczo, plansza
 				init();
 				show();
 				
-				if(input == '\n'
+				if(input == '\n')
 				
 					for(uint16_t i = 0; i < commands.length(); i++)
 					
