@@ -744,12 +744,12 @@ class Place	//	miejsce świata gry wyświetlane pojedyńczo, plansza
 					for(uint16_t i = 0; i < commands.length(); i++)
 					
 						switch(commands[i])	//	obsługa komend
-												{
-														case 'q':
-														
-																toExit = true;
-																
-												}	//	switch(commands[i]) //	obsługa komend
+							{
+								case 'q':
+								
+									toExit = true;
+								
+							}	//	switch(commands[i]) //	obsługa komend
 			break;
 			
 		}	//	switch(getch())	//	obsługa sterowania
