@@ -229,7 +229,7 @@ class Interaction	//	Możliwe wybory protagonisty prowadzące do kolejnych lub d
 		
 		interactionHistory += desc.lastReturn() + "\n";
 		
-		uint16_t choice = choicing( interact, I, names, placeAllReturn + interactionHistory , QcanelInteraction, lastChoice );
+		uint16_t choice = choosing( interact, I, names, placeAllReturn + interactionHistory , QcanelInteraction, lastChoice );
 		
 		clearScreen();
 		interactionHistory = "";
