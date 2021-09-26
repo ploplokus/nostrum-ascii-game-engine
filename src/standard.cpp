@@ -86,7 +86,7 @@ enum choiceType
 	interact
 };	//	enum choiceType
 
-uint16_t choicing(choiceType type, uint16_t I, string* texts, string description, string canelInteraction, uint16_t & start)
+uint16_t choosing(choiceType type, uint16_t I, string* texts, string description, string canelInteraction, uint16_t & start)
 {
 	uint16_t choice = 0;
 	char a = 'q';
